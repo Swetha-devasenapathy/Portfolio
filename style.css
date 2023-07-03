@@ -432,7 +432,10 @@ img {
   display: flex;
   justify-content: center;
 }
-
+.about__data {
+  position: relative;
+  top: 20%;
+}
 /* skills */
 .skills__container {
   row-gap: 0;
